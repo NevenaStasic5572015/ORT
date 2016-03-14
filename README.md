@@ -1,2 +1,2 @@
 # ORT
-domaci_praktikum
+domaci_praktikum1
