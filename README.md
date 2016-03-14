@@ -1,2 +1,0 @@
-# ORT
-domaci_praktikum
