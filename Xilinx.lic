@@ -1,0 +1,45 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sun Mar 13 14:02:24 UTC 2016.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Sun Mar 13 14:02:24 UTC 2016
+INCREMENT Vivado_WebPACK xilinxd 2017.03 permanent uncounted \
+15BAF997793D \
+VENDOR_STRING=nevena@527,Vivado_WebPACK,software,permanent,_211167971_0_0_343 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Mar-2016 TS_OK
+#
+# This is a permanent license generated on Sun Mar 13 14:02:24 UTC 2016
+INCREMENT Analyzer xilinxd 2017.03 permanent uncounted 9FB7A79BA115 \
+VENDOR_STRING=nevena@527,Analyzer,software,permanent,_211167971_0_0_062 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Mar-2016 TS_OK
+#
+# This is a permanent license generated on Sun Mar 13 14:02:24 UTC 2016
+INCREMENT ISE_WebPACK xilinxd 2017.03 permanent uncounted \
+015972509D0E \
+VENDOR_STRING=nevena@527,ISE_WebPACK,software,permanent,_211167971_0_0_135 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Mar-2016 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_WebPACK xilinxd 2017.03 82C7E1327D8F COMPONENTS="SDK \
+HLS V_WebPACK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2017.03 1350D5C0F1CB COMPONENTS="SDK \
+ChipScopePro_SIOTK ChipscopePro WebPACK XC7Z010 XC7Z030 HLS \
+xps_tdp XC7Z020 PlanAhead" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
